@@ -1,5 +1,9 @@
 # Depressed students analysis
 
+## Table of content
+- [Project overview](#project-overview)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+
 ### project overview
 
 This data analysis project aims to provide insight into the student depression rate. by analyzing various aspects of the data, it helps to identify causes of depression, features leading to depression, locations with high depression rates, and also how to prevent them.
