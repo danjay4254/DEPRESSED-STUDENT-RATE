@@ -5,19 +5,19 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Recommendations](#recommendations)
 
-### project overview
-
+### project overview 📽️
+---
 This data analysis project aims to provide insight into the student depression rate. by analyzing various aspects of the data, it helps to identify causes of depression, features leading to depression, locations with high depression rates, and also how to prevent them.
 
 <img width="902" height="500" alt="Screenshot 2025-10-01 025812" src="https://github.com/user-attachments/assets/e2fff110-5884-4c72-b8bc-0c51b73200a5" />
 
 
 
-### Data source
+### Data source ℹ️
 
 The primary dataset used for this analysis is the "student_depression_dataset.csv" flie, containing detailed information about student depression rate by kaggle.com
 
-### Tools
+### Tools 🧰
 
 - excel - Data cleaning
 - powerBI - creating report
@@ -28,7 +28,7 @@ in the initial data prepartion phase ,i preformed the following tasks:
 1. Data loading and preparation.
 2. Data cleaning and formatting
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis 📊
 
 EDA involved exploring the depressed student data to answer key questions, such as:
 
@@ -39,7 +39,7 @@ EDA involved exploring the depressed student data to answer key questions, such 
 5. Which features (e.g., sleep, stress, social isolation) are most strongly associated with depression?
 6. Do students with family mental illness history tend to be depressed or not?
 
-### Results/Findings 
+### Results/Findings 🤔
 
 The analysis resuits are summarized as follows:
 
