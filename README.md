@@ -4,6 +4,10 @@
 
 This data analysis project aims to provide insight into the student depression rate. by analyzing various aspects of the data, it helps to identify causes of depression, features leading to depression, locations with high depression rates, and also how to prevent them.
 
+<img width="902" height="500" alt="Screenshot 2025-10-01 025812" src="https://github.com/user-attachments/assets/e2fff110-5884-4c72-b8bc-0c51b73200a5" />
+
+
+
 ### Data source
 
 The primary dataset used for this analysis is the "student_depression_dataset.csv" flie, containing detailed information about student depression rate by kaggle.com
